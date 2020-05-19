@@ -1,0 +1,4 @@
+user:os
+password:Sql1380
+host:localhost
+database:movies_db
